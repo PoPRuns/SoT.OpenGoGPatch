@@ -1,4 +1,4 @@
-# Prince of Persia: The Sands of Time - GOG Preservation Patch
+# PoP: The Sands of Time - GOG Preservation Patch
 
 This patch package brings GOG's official Preservation Program QoL update (**v1.00.181 GOG v2**) to other versions of the game (Steam, Ubisoft Connect, Retail CD/DVD, etc.).
 
