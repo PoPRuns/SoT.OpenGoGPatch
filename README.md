@@ -26,11 +26,12 @@ Ensure the following files are placed in your patch folder:
 
 ## How to Apply the Patch
 
-1. Copy all the patch files above (including `gog_patch.bat`) into your game installation directory (where `POP.EXE` is located):
+1. Download the patch zip file from [releases](https://github.com/PoPRuns/SoT.OpenGoGPatch/releases/latest) and extract it.
+2. Copy all the patch files above (including `gog_patch.bat`) into your game installation directory (where `POP.EXE` is located):
    * **Steam**: `...\Steam\steamapps\common\Prince of Persia The Sands of Time\`
    * **Retail / Other**: `C:\Games\Prince of Persia The Sands of Time\`
-2. Double-click **`gog_patch.bat`**.
-3. It will read your `POP.EXE`, apply the binary patches, and create the patched executable **`gpp.exe`**.
+3. Double-click **`gog_patch.bat`**.
+4. It will read your `POP.EXE`, apply the binary patches, and create the patched executable **`gpp.exe`**.
 
 #### Launching the Game:
 * Run the game normally from steam first (so that it installs any dependencies needs, and verify it works).
